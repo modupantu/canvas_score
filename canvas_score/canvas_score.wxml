@@ -1,0 +1,6 @@
+<!--component/canvas_score.wxml-->
+<view class='canvas_box'>
+  <canvas canvas-id="canvasID" class='credit-canvas'>
+  <cover-view class='bind' bindtap='toCompany'></cover-view>
+  </canvas>
+</view>
