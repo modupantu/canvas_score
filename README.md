@@ -8,4 +8,4 @@
  <canvas_score wx:if="{{orderData.scoreLevel&&orderData.creditUpdateDate}}" scoreLevel="{{orderData.scoreLevel}}" scoreUpdateTime="{{orderData.creditUpdateDate}}" totalScore="{{orderData.totalScore}}" data="{{orderData}}"></canvas_score>
  
  
-![Image text](./7.png)
+![image](./7.png)
